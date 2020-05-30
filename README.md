@@ -1,2 +1,6 @@
-# AngryBirdsStage3
-Stage 3 Angry Birds: Introducing Constraint
+# C32 Project
+
+OUTPUT LINK
+
+
+https://agnikasunil.github.io/C32-Project/
