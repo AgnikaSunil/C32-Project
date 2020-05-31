@@ -10,7 +10,6 @@ class Friend extends BaseClass {
     this.cloud3 = loadImage("sprites/clouds.png");
     this.cloud4 = loadImage("sprites/clouds.png");
     this.grass1 = loadImage("sprites/grass.png");
-    this.grass2 = loadImage("sprites/grass.png");
     /* X--X--X--X--X--X---X--X--X--X--X--X */
 
     this.Visibility = 255;
@@ -22,8 +21,7 @@ class Friend extends BaseClass {
      image(this.cloud2,500,10,200,100);
      image(this.cloud3,700,10,200,100);
      image(this.cloud4,1000,10,200,100);
-     image(this.grass1,400,310,160,100);
-     image(this.grass2,48,145,160,100);
+     image(this.grass1,48,145,160,100);
      /* X--X--X--X--X--X---X--X--X--X */
 
     if(this.body.speed<3){
