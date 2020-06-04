@@ -9,7 +9,7 @@ var bg,platform,ground;
 var me,slingShot;
 
 function preload() {
-    bg = loadImage("sprites/black.jpeg")
+    bg = loadImage("sprites/day.jpg")
 }
 
 function setup(){
